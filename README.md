@@ -8,13 +8,13 @@ I'm a Full-Stack Web Developer 💻 from India.
 </h2> 
 
 ## Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 <!-- This section you create this variables that are used above -->
-[website]: https://google.com
+[hackerrank]: https://www.hackerrank.com/ganesh_01
 [twitter]: https://twitter.com
 [linkedin]: https://www.linkedin.com/in/ganesh-chaudhari-750653211/
 
