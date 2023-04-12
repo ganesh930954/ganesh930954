@@ -7,14 +7,18 @@ Hi there, I'm Ganesh Chaudhari 👋
 I'm a Full-Stack Web Developer 💻, Chess Player   from India.
 </h2> 
 
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/ganesh-chaudhari-750653211/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ganesh Chaudhari | LinkedIn" width="21px"/></a>
-
-<a href="https://instagram.com/ganesh_c_11"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Ganesh | Instagram" width="21px"/></a>
-</br>
+## Connect with me:
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 
+<!-- This section you create this variables that are used above -->
+[website]: https://google.com
+[twitter]: https://twitter.com
+[linkedin]: https://www.linkedin.com/in/ganesh-chaudhari-750653211/
 
 ## 🔭 I'm currently working on
 
