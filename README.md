@@ -4,7 +4,7 @@ Hi there, I'm Ganesh Chaudhari 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Chess Player   from India.
+I'm a Full-Stack Web Developer 💻 from India.
 </h2> 
 
 ## Connect with me:
