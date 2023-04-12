@@ -13,8 +13,6 @@ I'm a Full-Stack Web Developer 💻 from India.
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-- 
 <!-- This section you create this variables that are used above -->
 [website]: https://google.com
 [twitter]: https://twitter.com
