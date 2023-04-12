@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ganesh Kautik Chaudhari</h1>
+<h1 align="center">Hi 👋, I'm Ganesh Chaudhari</h1>
 <h3 align="center">A passionate Web developer stack Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh930954&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh930954" /> </p>
